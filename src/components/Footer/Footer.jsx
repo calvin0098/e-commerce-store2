@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className={`${showFilter ? "hide-div" : null}`}>
       <div className="about">
         <Link to="/" className="nav-brand">
-          Essence
+          Shopflare
         </Link>
 
         <div className="text">Choose from our wide variety of fragrances</div>
@@ -44,13 +44,13 @@ const Footer = () => {
         <div className="heading">Contact Us</div>
 
         <div className="sub-heading address">
-          <i className="fa fa-map-marker"></i>212 Oakbrook Center, Indiana
+          <i className="fa fa-map-marker"></i>Aliganj, Lucknow
         </div>
         <div className="sub-heading phone">
-          <i className="fa fa-phone"></i>+91 21200 21200
+          <i className="fa fa-phone"></i>+91 7784267544
         </div>
         <div className="sub-heading e-mail">
-          <i className="fa fa-envelope"></i>support@essence.com
+          <i className="fa fa-envelope"></i>support@eshopflare.com
         </div>
       </div>
     </footer>

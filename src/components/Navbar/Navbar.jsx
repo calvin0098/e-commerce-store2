@@ -13,11 +13,11 @@ const Navbar = () => {
   return (
     <nav className="nav-bar">
       <Link to="/" className="nav-brand">
-        Essence
+      Shop Flare
       </Link>
 
       <Link to="/products" className="nav-primary">
-        <span>Shop</span>
+        <span></span>
       </Link>
 
       <div className="nav-search input input-primary">
